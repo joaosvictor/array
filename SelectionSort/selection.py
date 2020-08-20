@@ -18,4 +18,5 @@ def selectionSort(arr):
       newArr.append(arr.pop(smallest))
   return newArr
 
-print('The sorted given list: ' + str(selectionSort([90,7,85,13,71,22,67,36,59,45])))     
+print('The sorted given list: ' + str(selectionSort([90,7,85,13,71,22,67,36,59,45])))   
+#90,7,85,13,71,22,67,36,59,45
