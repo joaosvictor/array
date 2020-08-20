@@ -1,5 +1,4 @@
 # make a real manipulation on this array 
-# [90,7,85,13,71,22,67,36,59,45]
 import sys
 import os
 import re
