@@ -8,6 +8,8 @@
 *[Click here to install C++](https://www.cs.odu.edu/~zeil/cs250PreTest/latest/Public/installingACompiler/).*
 
 **Read about Sorting algorithms and arrays**
+
 *[Array](https://en.wikipedia.org/wiki/Array).*
-*[Sorting Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm)*
+
+*[Sorting Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm).*
 
