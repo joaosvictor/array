@@ -50,11 +50,6 @@ print('The sorted given list: '+ str(mergesort(a)))
 
 
 '''
-def recursiveinsertion(arr, n):
-    if n <= 1:
-        return
-
-    recursiveinsertion(arr, n-1)
 
     last = arr[n-1]
     j = n-2
