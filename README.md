@@ -9,7 +9,9 @@
 
 **Read about Sorting algorithms and arrays**
 
-*[Array](https://en.wikipedia.org/wiki/Array).*
+*[Array](https://en.wikipedia.org/wiki/Array_data_structure).*
+
+*[Array in mathematics perspective] (https://en.wikipedia.org/wiki/Matrix_(mathematics)).*
 
 *[Sorting Algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm).*
 
